@@ -6,8 +6,8 @@ namespace ShorCsharp
 {
     static class Constants
     {
-        public const long MAXFACT = 99999999;
-        public const long MINFACT = 10000000;
+        public const long MAXFACT = 99999;
+        public const long MINFACT = 10000;
 
     }
 }
