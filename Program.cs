@@ -42,7 +42,7 @@ namespace ShorCsharp
                 period++;
             }
             watch.Stop();
-            Console.WriteLine("elapsed time = {0} seconds", watch.ElapsedMilliseconds / 1000);
+            Console.WriteLine("Elapsed Time = {0} seconds", watch.ElapsedMilliseconds / 1000);
 
             return period;
         }
